@@ -1,3 +1,2 @@
-kaizewu Charlie Wu
+Hello, World!
 UChicago CS Git Tutorial
-
